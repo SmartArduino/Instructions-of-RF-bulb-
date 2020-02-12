@@ -22,7 +22,7 @@ There are two type of RF bulb currently: one of them is warm & cold color RF bul
 * Power on the device, and then click the settings button on the right top of screen, select the “de-pair” button within 20 seconds
 * When the device de-pair successfully, it will blink three times
 
-### Introdunctions of each button
+### Introductions of each button
 
 * ![image](https://github.com/SmartArduino/Instructions-of-RF-bulb-/raw/master/image1.png) Turn on/off auxiliary light
 * ![image](https://github.com/SmartArduino/Instructions-of-RF-bulb-/raw/master/image2.png) Turn on/off device
@@ -47,7 +47,7 @@ There are two type of RF bulb currently: one of them is warm & cold color RF bul
 * Power on the device, and then click the settings button on the right top of screen, select the “de-pair” button within 15 seconds
 * When the device de-pair successfully, it will blink three times
 
-### Button description
+### Introductions of each button
 
 * ![image](https://github.com/SmartArduino/Instructions-of-RF-bulb-/raw/master/image9.png) Delay setting, can set delay on and delay off
 * ![image](https://github.com/SmartArduino/Instructions-of-RF-bulb-/raw/master/image10.png) Turning fixtures on and off
