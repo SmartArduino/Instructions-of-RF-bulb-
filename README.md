@@ -5,8 +5,7 @@ This is instructions for DoHome RF bulb
 
 There are two type of RF bulb currently: one of them is warm & cold color RF bulb and the other one is RF color bulb. The control view for the devices on DoHome App show as following figures.
 
-![image](https://github.com/SmartArduino/Instructions-of-RF-bulb-/raw/master/RF_Color.png)
-![image](https://github.com/SmartArduino/Instructions-of-RF-bulb-/raw/master/RF_Cold_And_Warm.png)
+![image](https://github.com/SmartArduino/Instructions-of-RF-bulb-/raw/master/combine.png)
 
 ### Add device to group
 
@@ -22,4 +21,4 @@ There are two type of RF bulb currently: one of them is warm & cold color RF bul
 
 ### Button definition
 
-* Turn on/off auxiliary light
+* ![image](https://github.com/SmartArduino/Instructions-of-RF-bulb-/raw/master/image1.png) Turn on/off auxiliary light
