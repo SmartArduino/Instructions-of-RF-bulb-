@@ -6,3 +6,8 @@ This is instructions for DoHome RF bulb
 There are two type of RF bulb currently: one of them is warm & cold color RF bulb and the other one is RF color bulb. The control view for the devices on DoHome App show as following figures.
 
 ![image](https://github.com/SmartArduino/Instructions-of-RF-bulb-/raw/master/RF_Color.png)
+![image](https://github.com/SmartArduino/Instructions-of-RF-bulb-/raw/master/RF_Color_And_Warm.png)
+
+## Add device to group
+
+* Power off your device, switch to a group in DoHome App
