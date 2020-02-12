@@ -8,6 +8,17 @@ There are two type of RF bulb currently: one of them is warm & cold color RF bul
 ![image](https://github.com/SmartArduino/Instructions-of-RF-bulb-/raw/master/RF_Color.png)
 ![image](https://github.com/SmartArduino/Instructions-of-RF-bulb-/raw/master/RF_Color_And_Warm.png)
 
-## Add device to group
+### Add device to group
 
 * Power off your device, switch to a group in DoHome App
+* Power on the device, and then click the pairing button in DoHome App within 20 seconds
+* When the device paired successfully, it will blink one time
+
+### Remove device from group
+
+* Power off your device, switch to a group in DoHome App
+* Power on the device, and then click the settings button on the right top of screen, select the “de-pair” button within 20 seconds
+* When the device de-pair successfully, it will blink three times
+
+### Button definition
+
